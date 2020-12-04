@@ -1,10 +1,14 @@
-Title: Automated Excel Data Pipeline
+Title: 
+    Automated Excel Data Pipeline
 
-Author: Brian Rafferty
+Author: 
+    Brian Rafferty
 
-Date: 12/4/2020
+Date: 
+    12/4/2020
 
-Description: This Python script automates the process
+Description: 
+    This Python script automates the process
     of merging multiple Excel files into the same
     Workbook. Each individual sheet's data and title
     is preserved in the output file. 
@@ -19,7 +23,8 @@ Description: This Python script automates the process
     The goal is to save a Data Analyst a substantial amount
     of time when working with Excel files.
 
-Wish List: This script can be augmented by adding user 
+Wish List: 
+    This script can be augmented by adding user 
     interface functionality. Doing so would allow users to 
     customize which Excel files are merged, which column(s) 
     are selected to group-by within pivot tables, and which 
